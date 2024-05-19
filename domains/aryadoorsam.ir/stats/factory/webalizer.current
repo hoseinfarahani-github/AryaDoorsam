@@ -1,0 +1,166 @@
+# Webalizer V2.23-08 Incremental Data - 12/02/2023 18:03:23
+2023 12 2 18 3 23
+55 29 1 11 11 1 190859 40 3 0
+1 16 81 2 2
+0 0 0 0 0 0
+55 29 190859 1 40 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+18 10 80406 14
+7 4 23400 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+14 7 38332 10
+0 0 0 0
+0 0 0 0
+0 0 0 0
+16 8 48721 12
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+29
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+1
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/order/show/31
+0 2 5057386702636409203 11402 0 1
+/order/show/29
+0 3 415 18202 0 1
+/order/show/26
+0 2 88 12407 0 0
+/order/show/27
+0 3 7 40770 0 0
+/order/show/10
+0 3 7009342038486183265 19151 0 0
+/login
+0 5 0 8398 0 0
+/order/graphic/index
+0 3 0 14685 0 0
+/
+0 3 0 17092 1 0
+/storage/Image/Product/click-door/whiter.jpeg
+0 1 7009342038486183265 0 0 0
+/order/show/33
+0 1 11 5712 0 0
+/order
+0 4 399 38284 1 0
+# End Of Table - urls
+# -sites- (monthly)
+178.131.42.35
+0 55 29 190859 3 1701540203
+/order
+# End Of Table - sites (monthly)
+# -sites- (daily)
+178.131.42.35
+0 55 29 190859 3 1701540203
+/order
+# End Of Table - sites (daily)
+# -referrers- 
+http://factory.aryadoorsam.ir/order/show/10
+0 7
+http://factory.aryadoorsam.ir/order/graphic/index
+0 6
+http://factory.aryadoorsam.ir/order/show/33
+0 1
+- (Direct Request)
+0 4
+http://factory.aryadoorsam.ir/login
+0 10
+http://factory.aryadoorsam.ir/order/show/27
+0 8
+http://factory.aryadoorsam.ir/order/show/29
+0 3
+http://factory.aryadoorsam.ir/order/show/26
+0 2
+http://factory.aryadoorsam.ir/order
+0 7
+http://factory.aryadoorsam.ir/
+0 3
+http://factory.aryadoorsam.ir/order/show/31
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 55
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

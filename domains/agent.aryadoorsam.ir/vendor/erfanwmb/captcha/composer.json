@@ -1,0 +1,33 @@
+{
+    "name": "erfanwmb/captcha",
+    "description": "This package is for captcha",
+    "keywords": ["captcha","hcaptcha","gd","recaptcha","laravel"],
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "erfan ghalibaf",
+            "email": "erfanwmb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "erfanwmb\\captcha\\" : "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "prefer-stable": true,
+    "extra": {
+
+        "laravel": {
+            "providers": [
+                "erfanwmb\\captcha\\CaptchaServiceProvider"
+            ],
+            "aliases": {
+                "captcha": "erfanwmb\\captcha\\CaptchaFacade"
+            }
+        }
+    }
+}

@@ -1,0 +1,235 @@
+# Webalizer V2.23-08 Incremental Data - 12/02/2023 22:12:25
+2023 12 2 22 12 25
+40 13 22 2 2 16 32914 29 15 0
+5 2 10 1 2
+34 8 24669 17 24 11
+6 5 8245 5 5 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+3 0 2521 3
+0 0 0 0
+0 0 0 0
+2 0 960 0
+4 1 4132 4
+1 1 1616 1
+0 0 0 0
+0 0 0 0
+2 2 3231 2
+1 0 199 1
+1 0 199 1
+5 2 7919 1
+2 0 2279 0
+10 1 0 10
+0 0 0 0
+2 2 3229 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 1614 1
+2 2 3224 2
+2 1 1791 1
+2
+0
+0
+13
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+6
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 12 0 17751 12 1
+/robots.txt
+0 1 0 66 0 0
+# End Of Table - urls
+# -sites- (monthly)
+15.237.132.37
+0 1 1 1617 1 1701451095
+/
+157.245.202.27
+0 1 0 783 0 0
+-
+139.171.107.74
+0 1 1 1611 1 1701411548
+/
+31.220.0.86
+0 1 0 177 0 0
+-
+91.92.240.209
+0 3 0 2521 1 1701396686
+-
+159.203.66.122
+0 2 2 3224 1 1701555145
+/
+93.158.91.10
+0 2 1 1791 1 1701472776
+/
+91.92.250.19
+0 3 0 2521 1 1701413061
+-
+93.158.90.29
+0 1 0 2080 0 0
+-
+49.7.227.204
+0 1 1 1616 1 1701512210
+/
+43.159.128.149
+0 1 1 1612 1 1701537863
+/
+15.237.215.110
+0 2 0 0 0 0
+-
+93.158.90.46
+0 1 0 2080 0 0
+-
+93.158.90.52
+0 1 1 1613 1 1701435714
+/
+69.167.38.108
+0 10 1 0 1 1701445574
+-
+185.181.60.189
+0 1 1 1615 1 1701427803
+/
+43.153.11.107
+0 1 1 1616 1 1701501832
+/
+13.212.117.193
+0 2 0 398 2 1701434901
+/
+128.199.197.155
+0 2 0 2279 0 0
+-
+120.71.59.24
+0 1 1 1614 1 1701465298
+/
+91.92.245.34
+0 1 0 2080 0 0
+-
+93.158.91.34
+0 1 1 66 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+31.220.0.86
+0 1 0 177 0 0
+-
+159.203.66.122
+0 2 2 3224 1 1701555145
+/
+49.7.227.204
+0 1 1 1616 1 1701512210
+/
+43.159.128.149
+0 1 1 1612 1 1701537863
+/
+43.153.11.107
+0 1 1 1616 1 1701501832
+/
+# End Of Table - sites (daily)
+# -referrers- 
+binance.com
+0 6
+- (Direct Request)
+0 34
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 1
+Opera/10.61 (J2ME/MIDP; Opera Mini/5.1.21219/19.999; en-US; rv:1.9.3a5) WebKit/534.5 Presto/2.6.30
+0 1
+Mozilla/5.0 (Linux; Android 9; INE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 6
+Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 4
+python-requests/2.25.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 10
+Mozilla/5.0 (Linux; Android 7.1.2; 17MB150WB Build/NZH54D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

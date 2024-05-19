@@ -1,0 +1,144 @@
+# Webalizer V2.23-08 Incremental Data - 12/02/2023 16:28:01
+2023 12 2 16 28 1
+37 15 1 10 1 1 146166 20 1 0
+1 218 218 2 2
+0 0 0 0 0 0
+37 15 146166 1 20 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+37 15 146166 20
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/order/store/34
+0 1 29 17587 0 0
+/assets/js/order.js
+0 1 31 673 0 0
+/product
+0 1 0 4944 0 0
+/login
+0 3 0 4900 0 0
+/Agent/assets/js/jquery-ui.min.js
+0 1 0 74721 0 0
+/clients/get_info
+0 1 165 269 0 0
+/order/create
+0 3 7954877846486411566 20696 0 0
+/
+0 2 0 11702 0 0
+/Agent/assets/js/quantity-2.js
+0 1 165 374 0 0
+/order
+0 1 21 6201 0 0
+# End Of Table - urls
+# -sites- (monthly)
+51.15.212.225
+0 37 15 146166 1 1701534481
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+51.15.212.225
+0 37 15 146166 1 1701534481
+/login
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 37
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 37
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
